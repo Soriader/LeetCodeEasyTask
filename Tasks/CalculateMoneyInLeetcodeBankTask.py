@@ -1,4 +1,4 @@
-def totalMoney(self, n):
+def totalMoney(n):
     """
     :type n: int
     :rtype: int
