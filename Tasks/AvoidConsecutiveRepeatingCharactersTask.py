@@ -1,4 +1,4 @@
-def modifyString(self, s):
+def modifyString(s):
     """
     :type s: str
     :rtype: str
