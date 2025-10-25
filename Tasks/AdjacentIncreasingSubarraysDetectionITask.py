@@ -1,4 +1,4 @@
-def hasIncreasingSubarrays(self, nums, k):
+def hasIncreasingSubarrays(nums, k):
     """
     :type nums: List[int]
     :type k: int
