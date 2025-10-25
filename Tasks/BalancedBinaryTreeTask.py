@@ -4,8 +4,8 @@ class TreeNode(object):
          self.left = left
          self.right = right
 
-class Solution(object):
-    def isBalanced(self, root):
+
+def isBalanced(root):
         """
         :type root: Optional[TreeNode]
         :rtype: bool
