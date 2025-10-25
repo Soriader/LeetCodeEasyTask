@@ -1,4 +1,4 @@
-def isSameAfterReversals(self, num):
+def isSameAfterReversals(num):
     """
     :type num: int
     :rtype: bool
