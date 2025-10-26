@@ -1,4 +1,4 @@
-def maxFrequencyElements(self, nums):
+def maxFrequencyElements(nums):
     """
     :type nums: List[int]
     :rtype: int
