@@ -1,4 +1,4 @@
-def countBits(self, n):
+def countBits(n):
     """
     :type n: int
     :rtype: List[int]
