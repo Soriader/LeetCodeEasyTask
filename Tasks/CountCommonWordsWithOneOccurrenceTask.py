@@ -1,6 +1,6 @@
 from collections import Counter
 
-def countWords(self, words1, words2):
+def countWords(words1, words2):
     """
     :type words1: List[str]
     :type words2: List[str]
