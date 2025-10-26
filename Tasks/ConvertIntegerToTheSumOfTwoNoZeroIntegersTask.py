@@ -1,4 +1,4 @@
-def getNoZeroIntegers(self, n):
+def getNoZeroIntegers(n):
     a = 1
     while a < n:
         b = n - a
