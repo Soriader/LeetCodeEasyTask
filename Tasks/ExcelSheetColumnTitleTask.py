@@ -1,6 +1,6 @@
 import string
 
-def convertToTitle(self, columnNumber):
+def convertToTitle(columnNumber):
     num_to_letter = {i + 1: letter for i, letter in enumerate(string.ascii_uppercase)}
 
     result = ""
