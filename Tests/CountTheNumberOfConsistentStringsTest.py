@@ -24,9 +24,9 @@ class CountTheNumberOfConsistentStringsTest(unittest.TestCase):
         self.assertEqual(result, expected_output)
 
     def test_third_case(self):
-        allowed = "abc"
-        words = ["a", "b", "c", "ab", "ac", "bc", "abc"]
-        expected_output = 7
+        allowed = "cad"
+        words = ["cc", "acd", "b", "ba", "bac", "bad", "ac", "d"]
+        expected_output = 4
         result = countConsistentStrings(allowed, words)
         self.assertEqual(result, expected_output)
 
