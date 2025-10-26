@@ -1,11 +1,10 @@
-def countConsistentStrings(self, allowed, words):
+def countConsistentStrings(allowed, words):
     """
     :type allowed: str
     :type words: List[str]
     :rtype: int
     """
 
-    acctual_analyses = ""
     result = 0
 
     for i in words:
