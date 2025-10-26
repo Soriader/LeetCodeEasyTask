@@ -1,4 +1,4 @@
-def toHex(self, num):
+def toHex(num):
     if num == 0:
         return "0"
 
