@@ -1,4 +1,4 @@
-`from collections import Counter
+from collections import Counter
 
 def checkDistances(s, distance):
     """
@@ -19,8 +19,7 @@ def checkDistances(s, distance):
                 result[letter] = iterator
                 break
 
-    print("mój wynik", result)
-    print("wynik metody", correctDict(new_s, distance))
+
     return result == correctDict(new_s, distance)
 
 
